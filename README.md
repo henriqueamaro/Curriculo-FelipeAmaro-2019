@@ -2,10 +2,10 @@
 Meu currículo no estilo MARKDOWN.
 
 # ***Felipe Henrique Amaro***
-### ***Brasileiro, Solteiro ,1 Filho.
-Data Nascimento 23/08/1993.
+### Brasileiro, Solteiro ,1 Filho.
+***Data Nascimento 23/08/1993.***
 ### NÂO FUMANTE - 26 anos
-Rua: Pintassilgos, N°210, Villa Mathiensen, 13467-324,  Americana - SP
+***Rua: Pintassilgos, N°210, Villa Mathiensen, 13467-324,  Americana - SP***
 ## Celular: (19) 99375-8052
 ### E-mail: felipe.h.amaro@hotmail.com
 ### E-mail: felipehenriqueam@gmail.com
@@ -45,7 +45,7 @@ Ensino Médio Completo; EE. Prof Maria José de Mattos Gobbo.
 ## ***CURSOS DE APERFEIÇOAMENTO***
 #### •	TECNICO - Tecnologia da informação/ Programação e jogos digitais – SENAC (CURSANDO).
 
-#### •	Digitação - 8 Horas - Microlins – 2011.
+#### •	Digitação - 8 Horas - Microlins – 2011.z
 #### •	Informática Básica (Windows, Word, Excel, Power Point) - 78 Horas - Secam - 2008
 
 #### •	Hardware (Montagem, Manutenção, Instalação de Software, Rede) - 78 Horas - Cetepi – 2009.
